@@ -1,2 +1,2 @@
-nome = "vinicius"
+nome = "pedro"
 print(nome)
